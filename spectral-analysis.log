@@ -1,0 +1,67 @@
+Fri May 15 09:38:58 CDT 2015
+
+PARAMETERS: XDIP-Segments: 200000 
+ ACF-Points: 65536 
+ PROCESSORS: 7 
+ BAND WIDTH: 6 
+ NORMALIZATION Min: 2000 
+ NORMALIZATION Max: 2400 
+ REMOVE CT: yes 
+ NUMBER of Windows: 4 
+ 
+XDIP FILES:
+Analyzing simulations 2 through 35
+Simulation basenames are dm_r_y100_deut_ 
+
+---------------------------------------------------------------------------------
+    FILTER XDIP FILES FOR DUPLICATES AND SPLICE TOGETHER
+dm_r_y100_deut_2.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_3.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_4.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_5.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_6.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_7.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_8.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_9.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_10.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_11.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_12.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_13.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_14.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_15.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_16.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_17.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_18.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_19.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_20.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_21.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_22.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_23.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_24.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_25.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_26.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_27.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_28.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_29.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_30.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_31.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_32.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_33.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_34.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+dm_r_y100_deut_35.xdip added to xdip/dm_r_y100_deut_filtered.xdip file
+
+XDIP files were filtered to remove duplicate frames at every 501 frames
+XDIP Frequency data:
+  Freq   Count 
+   1002    11 
+   501    376 
+The number of timesteps in the xdip/dm_r_y100_deut_filtered.xdip file is: 5299335
+Time Resolution requested
+ Windows:
+  0   1324833 
+  1324833   2649666 
+  2649666   3974499 
+  3974499   5299332 
+  0  5299335
+
+NORMAL TERMINATION
